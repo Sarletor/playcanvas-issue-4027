@@ -1,0 +1,16 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@playcanvas/canvas-mock": "^1.0.0",
+    "playcanvas": "^1.51.7"
+  },
+  "type": "module"
+}
